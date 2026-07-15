@@ -1,0 +1,15 @@
+title: 'Jules Massart'
+description: "Personal page"
+baseurl: ""
+url: "https://julesmt.github.io"
+
+header_pages:
+  - index.md
+
+style: light
+
+footer: ''
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
